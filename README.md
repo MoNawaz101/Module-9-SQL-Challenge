@@ -38,8 +38,10 @@ These are the original CSV files provided for the challenge in the [data](/data)
 
 ## Entity Relationship Diagram
 In the folder [EmployeeSQL](/EmployeeSQL/)  
+
 [ERD_image.png](/EmployeeSQL/ERD_Image.png)  
-This has been generated in [quickdatabasediagrams.com](https://app.quickdatabasediagrams.com/#/d/cFDCpS). It shows the relationships between the various tables.
+- This has been generated in [quickdatabasediagrams.com](https://app.quickdatabasediagrams.com/#/d/cFDCpS).
+- It shows the relationships between the various tables.
 
 ## SQL files 
 [Employee_table_schemata.sql](EmployeeSQL/Employee_table_schemata.sql)  
@@ -51,6 +53,7 @@ This has been generated in [quickdatabasediagrams.com](https://app.quickdatabase
 
 ## Output files
 In the folder [Query_outputs](EmployeeSQL/Query_outputs/)  
+
 Query * Output.csv where * = 1 to 8.    
 -  These files contain the outputs of the queries generated from the file [Employee_queries.sql](/EmployeeSQL/Employee_queries.sql)
   
