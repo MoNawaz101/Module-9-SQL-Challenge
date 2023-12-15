@@ -50,5 +50,5 @@ In the folder [EmployeeSQL](/EmployeeSQL/)
 ## Output files
 In the folder [Query_outputs](EmployeeSQL/Query_outputs/)  
 Query * Output.csv - where * = 1 to 8.    
-                   - these files contain the outputs of the queries generated from the file [Employee_queries.sql]((/EmployeeSQL/Employee_queries.sql)
+                   - these files contain the outputs of the queries generated from the file [Employee_queries.sql](/EmployeeSQL/Employee_queries.sql)
   
