@@ -25,7 +25,7 @@ The analysis requires the following:
 ## Directory structure 
 The root directory contain two folders  
 - [data](/data) - This contains the original CSV files
-- [EmployeesSQL](/EmployeesSQL)  - This contains the ERD, SQL files and another folder [Query_outputs](\EmployeesSQL\Quesry_outputs) which contains the output files from the queries.
+- [EmployeeSQL](/EmployeeSQL)  - This contains the ERD, SQL files and another folder [Query_outputs](\EmployeeSQL\Quesry_outputs) which contains the output files from the queries.
 
 ## CSV files 
 These are the original CSV files provided for the challenge in the [data](/data) folder.
@@ -37,7 +37,7 @@ These are the original CSV files provided for the challenge in the [data](/data)
 - titles.csv - Information on the roles in the company. Columns with title_id and title
 
 ## Entity Relationship Diagram
-In the folder [EmployeesSQL](/EmployeesSQL)
+In the folder [EmployeeSQL](/EmployeeSQL)
 [ERD_image.png](/EmployeeSQL/ERD_Image.png)  - This has been generated in [quickdatabasediagrams.com](https://app.quickdatabasediagrams.com/#/d/cFDCpS). It shows the relationships between the various tables.
 
 ## SQL files 
