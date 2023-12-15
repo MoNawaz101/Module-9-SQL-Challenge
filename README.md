@@ -48,7 +48,7 @@ In the folder [EmployeeSQL](/EmployeeSQL/)
 [EmployeeSQL/Employee_queries.sql](/EmployeeSQL/Employee_queries.sql) - This is the query file used to generate the information required for the [task](#Task-Instructions)
 
 ## Output files
-In the folder [Query_outputs](EmployeeSQL/Query_outputs/)
-Query * Output.csv - where * = 1 to 8.  
+In the folder [Query_outputs](EmployeeSQL/Query_outputs/)  
+Query * Output.csv - where * = 1 to 8.    
                    - these files contain the outputs of the queries generated from the file [Employee_queries.sql]((/EmployeeSQL/Employee_queries.sql)
   
