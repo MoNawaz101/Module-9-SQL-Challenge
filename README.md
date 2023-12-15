@@ -37,7 +37,7 @@ These are the original CSV files provided for the challenge in the [data](/data)
 - titles.csv - Information on the roles in the company. Columns with title_id and title
 
 ## Entity Relationship Diagram
-In the folder [EmployeeSQL](/EmployeeSQL/)
+In the folder [EmployeeSQL](/EmployeeSQL/)  
 [ERD_image.png](/EmployeeSQL/ERD_Image.png)  - This has been generated in [quickdatabasediagrams.com](https://app.quickdatabasediagrams.com/#/d/cFDCpS). It shows the relationships between the various tables.
 
 ## SQL files 
