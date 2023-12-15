@@ -49,7 +49,8 @@ In the folder [EmployeeSQL](/EmployeeSQL/)
 - It generates the tables for the data from the [CSV files](/data).  
 - An ALTER DATABASE command has been added to change the database datestyle to mm-dd-yyy which the original CSV files used.  
 
-[EmployeeSQL/Employee_queries.sql](/EmployeeSQL/Employee_queries.sql) - This is the query file used to generate the information required for the [task](#Task-Instructions)
+[EmployeeSQL/Employee_queries.sql](/EmployeeSQL/Employee_queries.sql)   
+- This is the query file used to generate the information required for the [task](#Task-Instructions)
 
 ## Output files
 In the folder [Query_outputs](EmployeeSQL/Query_outputs/)  
