@@ -38,7 +38,8 @@ INNER JOIN departments
 	ON departments.dept_no = dept_manager.dept_no
 INNER JOIN titles
 	ON employees.emp_title_id = titles.title_id
-	Where titles.title = 'Manager';
+	Where titles.title = 'Manager'
+ORDER BY dept_manager.dept_no,employees.last_name;
 	
 
 -- Query No. 4
